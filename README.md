@@ -53,8 +53,16 @@ A modern, responsive educational website providing free resources, video lecture
 - Edit or add new subject pages in the `subjects/` directory.
 
 ## Credits
-- Developed by Satvik Verma
 - Graphics and icons from [Google Fonts](https://fonts.google.com/) and custom assets.
 - Video content linked from YouTube playlists.
+## Images
+![image](https://github.com/user-attachments/assets/397c77f6-e747-4f1b-8824-c33c7fa35c73)
+![image](https://github.com/user-attachments/assets/a85e69ad-4079-4e2c-918a-6a6387afd39a)
+![image](https://github.com/user-attachments/assets/5ef30706-7752-471d-9f7f-2741527b9b7e)
+![image](https://github.com/user-attachments/assets/f9127f4b-b265-46ce-8c65-6107ea8666ba)
+![image](https://github.com/user-attachments/assets/9ce9a91a-10d4-4c91-982d-fbd0da644008)
+![image](https://github.com/user-attachments/assets/b34e3e67-e1ad-4aa6-bb68-dd3dfb4b4123)
+
+
 
 
